@@ -64,7 +64,7 @@ export default function Contact() {
         {/* Quick Contact Info */}
         <div className="text-center mt-5">
           <p className="mb-1">
-            <strong>Email:</strong> <a href="mailto:yashraymane5@gmail.com" className="text-decoration-none text-dark">yashraymane5@gmail.com</a>
+            <strong>Email:</strong> <a href="mailto:yashraymane5@gmail.com" className="text-decoration-none text-dark">yashraymane36@gmail.com</a>
           </p>
           <p className="mb-1">
             <strong>Phone:</strong> <a href="tel:+917276515288" className="text-decoration-none text-dark">+91 7276515288</a>
