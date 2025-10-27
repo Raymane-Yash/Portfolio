@@ -14,6 +14,14 @@ export default function Projects() {
       tech: ["HTML", "CSS", "Bootstrap 5", "JavaScript"],
       liveUrl: "https://raymane-yash.github.io/bootstrap-project/",
       repoUrl: "https://github.com/Raymane-Yash/bootstrap-project"
+    },
+
+    {
+      title: "Gradient Generator App",
+      description: "A responsive React + Bootstrap app that generates random linear and radial gradients with copy functionality to enhance frontend design practice.",
+      tech: ["HTML", "Bootstrap 5", "JavaScript"],
+      liveUrl: "https://gradient-generator-app.vercel.app/",
+      repoUrl: "https://github.com/Raymane-Yash/Gradient-Generator-App"
     }
   ]
   return (
