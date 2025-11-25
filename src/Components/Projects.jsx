@@ -51,12 +51,12 @@ export default function Projects() {
   ]
   return (
     <>
-      <section id="projects" className="py-5 bg-light">
+      <section id="projects" className="py-5 bg-light" style={{ paddingBottom: "80px" }}>
         <div className="container">
           <h2 className="h4 fw-bold mb-4 text-center">Selected Projects</h2>
-          <div className="row g4">
+          <div className="row g-4">
             {projects.map((proj, idx) => (
-              <div className="col-md-6 col-lg-4">
+              <div key={idx} className="col-md-6 col-lg-4">
                 <div className="card h-100">
                   <div className="card-body d-flex flex-column">
                     <h5 className="card-title">{proj.title}</h5>
