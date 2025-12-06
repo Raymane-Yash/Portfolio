@@ -1,7 +1,7 @@
 export default function Projects() {
   const projects = [
     {
-      title: "One MCN – Influencer Marketing Agency",
+      title: "One MCN – Influencer Marketing Agency ",
       description: "A modern marketing agency website built for ONE MCN, showcasing influencer partnerships, services, and brand collaborations. Designed with React and Bootstrap for a sleek and responsive experience.",
       tech: ["React", "CSS3", "Responsive Design", "github-pages"],
       liveUrl: "https://raymane-yash.github.io/Market-Agency-React/",
